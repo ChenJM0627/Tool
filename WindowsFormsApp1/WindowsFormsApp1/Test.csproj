@@ -34,8 +34,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="halcondotnet">
-      <HintPath>..\..\..\VS_Project\Demo\Demo\bin\Debug\halcondotnet.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
